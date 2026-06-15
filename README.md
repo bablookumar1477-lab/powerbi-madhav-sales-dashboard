@@ -12,9 +12,10 @@ This project presents an interactive Sales Analytics Dashboard developed using P
 - Understand customer payment preferences.
 - Support data-driven business decisions.
 
- ## Dashboard Preview
 
-Madhav  Store Sales  Analysis .png
+## Dashboard Preview
+
+![Dashboard](dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 

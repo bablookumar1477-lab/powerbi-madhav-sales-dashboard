@@ -14,7 +14,7 @@ This project presents an interactive Sales Analytics Dashboard developed using P
 
   ## Dashboard Preview
 
-![Dashboard](Madhav%20Store%20Sales%20Analysis.png)
+[Dashboard](Madhav%20Store%20Sales%20Analysis.png)
 
 ## Key Performance Indicators (KPIs)
 
